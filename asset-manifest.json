@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/daanianne/static/css/main.e193ec00.css",
-    "main.js": "/daanianne/static/js/main.bddda24b.js",
+    "main.js": "/daanianne/static/js/main.7511ae5b.js",
     "static/js/787.4d4b6833.chunk.js": "/daanianne/static/js/787.4d4b6833.chunk.js",
     "index.html": "/daanianne/index.html",
     "main.e193ec00.css.map": "/daanianne/static/css/main.e193ec00.css.map",
-    "main.bddda24b.js.map": "/daanianne/static/js/main.bddda24b.js.map",
+    "main.7511ae5b.js.map": "/daanianne/static/js/main.7511ae5b.js.map",
     "787.4d4b6833.chunk.js.map": "/daanianne/static/js/787.4d4b6833.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e193ec00.css",
-    "static/js/main.bddda24b.js"
+    "static/js/main.7511ae5b.js"
   ]
 }
