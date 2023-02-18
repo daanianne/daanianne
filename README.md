@@ -1,4 +1,6 @@
-### Hi there 👋
+### Danielle Humilde
+
+Hello, this is the repository for my personal site, which can be found at [https://daanianne.github.io/daanianne/](https://daanianne.github.io/daanianne/)
 
 <!--
 **daanianne/daanianne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
